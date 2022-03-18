@@ -8,6 +8,7 @@ public class BasicWeek {
     private String day_7 = "Sunday";
     
     public void printDays() {
-    System.out.println(day_1 +" " +day_2 + " " + day_3 + " " + day_4 + " " + day_5 + " " + day_6 + " " + day_7); 
+    System.out.println(day_1 + " " + day_2 + " " + day_3 + " " +
+day_4 + " " + day_5 + " " + day_6 + " " + day_7);
     }
 }
